@@ -1,0 +1,46 @@
+[
+    {
+        "categoria": "Matemática",
+        "pregunta": "5*5",
+        "respuesta": "25",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "7\r"
+        
+
+
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿ si pedro tiene 100.000 y prestas 37.000 cuanto le queda ?",
+        "respuesta": "63.000",
+        "incorrecta1": "65.000",
+        "incorrecta2": "100.000",
+        "incorrecta3": "0"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "10/2",
+        "respuesta": "5",
+        "incorrecta1": "6",
+        "incorrecta2": "1",
+        "incorrecta3": "3\r"
+    },
+    
+    {
+        "categoria": "Matemática",
+        "pregunta": "10+10+10",
+        "respuesta": "30",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "20-9",
+        "respuesta": "11",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "2\r"
+    }
+]
